@@ -1,0 +1,44 @@
+body {
+    background-color: #FBE5D6;
+}
+
+.holder {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+}
+
+.guest-table {
+    background-color: rgba(0, 0, 0, .75);
+    width: 20%;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color: rgba(0, 0, 0, .75);
+    width: 20%;
+}
+
+table {
+    width: 100%;
+}
+
+.accepted {
+    width: 30%;
+    text-align: right;
+}
+
+.invited {
+    text-align: center;
+    width: 60%;
+}
+
+.contact-text {
+    color: white;
+}
+
+td, th {
+    color: white;
+}

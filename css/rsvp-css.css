@@ -1,0 +1,64 @@
+body{
+    background-image: url("https://i.insider.com/5eac8da748d92c3d275bb2de?width=1136&format=jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    overflow: hidden;
+}
+
+form {
+    width: 20%;
+}
+
+#address {
+    width: 100%
+}
+
+.rsvp-form {
+    background-color: white;
+    width: 20%;
+    border-radius: 3rem;
+}
+
+form {
+    padding: 5%;
+    width: 90%;
+}
+
+.rsvp-text {
+    padding-top: 5%;
+    text-align: center;
+    color: black;
+}
+
+.holder {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 5%;
+    margin-left: 100px;
+}
+
+.message-holder {
+    background-color: black;
+    border-radius: 3rem;
+    opacity: .5;
+    height: 400px;
+    width: 20%;
+    margin-right: 100px;
+    height: inherit;
+}
+
+.message {
+    margin: 15px;
+}
+#thank-you-text {
+    font-size: large;
+    color: white;
+}
+
+.button-holder {
+    display: flex;
+    justify-content: center;
+}
